@@ -1,6 +1,7 @@
-![banner](Vending_Machines.png)
-
+![banner](Vending_Machines.png)</br>
 Banner [source](https://banner.godori.dev/)
+
+</br>
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
