@@ -1,4 +1,4 @@
-![banner](Vending_Machines.png)</br>
+![banner](assets/Vending_Machines.png)</br>
 Banner [source](https://banner.godori.dev/)
 
 </br>
